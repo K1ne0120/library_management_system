@@ -22,5 +22,5 @@ void gotoxy(int x, int y);
 void Landing_failed();
 void enroll(const int a);
 void search(const int b, const int a);
-
+//aaaaa
 #endif
